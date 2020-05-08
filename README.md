@@ -4,7 +4,7 @@ Functions.css
 ### What is this & why?
 This is a small project to classify common css I use so I can build a web layout quickly. It's a work in progress.
 
-It was inspired by [Tachyons](http://tachyons.io/) and the need to work without polyfill.
+It was inspired by [Tachyons](http://tachyons.io/).
 
 ### Who made this?
 Samantha Patrick 👩🏻‍💻
