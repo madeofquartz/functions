@@ -8,10 +8,12 @@ It was inspired by [Tachyons](http://tachyons.io/) and the need to work without 
 
 ### Who made this?
 Samantha Patrick 👩🏻‍💻
+
 I'm a web dev based in Cape Girardeau, MO.
 
 **Find me at:**
 
 [madeofquartz.com](http://madeofquartz.com/)
+
 
 [@madeofquartz](http://twitter.com/madeofquartz)
