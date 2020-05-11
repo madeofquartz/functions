@@ -2,7 +2,7 @@ Functions.css
 -------------
 
 ### What is this & why?
-This is a small project to classify common css I use so I can build a web layout quickly. It's a work in progress.
+This is a small project to classify common css I use so I can build a web layout quickly for clients that still need to support IE. It's a work in progress.
 
 It was inspired by [Tachyons](http://tachyons.io/).
 
