@@ -150,6 +150,7 @@
 .td-underline { text-decoration: underline; }
 .td-overline { text-decoration: overline; }
 
+.flex-row { display: flex; flex:; }
 /* Flexbox */
 .flex-row { display: flex; flex: 1 1 auto; flex-direction: row; }
 .flex-column { display: flex; flex: 1 1 auto; flex-direction: column; }
@@ -200,6 +201,8 @@
 .grid90 { width: 90%; flex-basis: 90%; }
 .grid95 { width: 95%; flex-basis: 95%; }
 .grid100 { width: 100%; flex-basis: 100%; }
+.grid110 { width: 110%; flex-basis: 110%; }
+.grid115 { width: 115%; flex-basis: 115%; }
 
 /* Borders */
 .b-none { border: 0px; }
