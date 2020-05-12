@@ -165,11 +165,11 @@
 .jc-se { justify-content: space-evenly; } /* Try to use space-around instead, doesn't look like it's supported in edge. */
 
 /* Align Flexbox Itrems */
-.ai-fs { align-itrems: flex-start; }
-.ai-fe { align-itrems: flex-end; }
-.ai-c { align-itrems: center; }
-.ai-b { align-itrems: baseline; }
-.ai-s { align-itrems: stretch; }
+.ai-fs { align-items: flex-start; }
+.ai-fe { align-items: flex-end; }
+.ai-c { align-items: center; }
+.ai-b { align-items: baseline; }
+.ai-s { align-items: stretch; }
 
 /* Flex Elrement Grow */
 .fg0 { flex-grow: 0; }
